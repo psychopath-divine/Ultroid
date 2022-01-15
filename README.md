@@ -38,7 +38,7 @@
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/psychopath-divine/Ultroid)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://psychopath-divine/Ultroid)
 
 ## Deploy Locally
 - [Traditional Method](#local-deploy---traditional-method)
